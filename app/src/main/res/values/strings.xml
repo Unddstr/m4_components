@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">m4_components</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="gender">Пол</string>
+    <string name="genderM">М</string>
+    <string name="genderF">Ж</string>
+    <string name="getMessage">Получать уведомления</string>
+    <string name="authorization">Об авторизации на устройстве</string>
+    <string name="news">О новинках и предложениях</string>
+    <string name="score">Баллы</string>
+    <string name="save">Сохранить</string>
+    <string name="saveMessage">Изменения Сохранены</string>
+</resources>

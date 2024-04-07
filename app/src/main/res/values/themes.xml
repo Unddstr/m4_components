@@ -1,0 +1,14 @@
+<resources>
+    <style name="Base.Theme.M4_components" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#7D5260</item>
+        <item name="colorOnPrimary">@color/whiteBackground</item>
+        <item name="colorSecondary">@color/violet</item>
+    </style>
+
+    <style name="Theme.M4_components" parent="Base.Theme.M4_components" />
+
+    <style name="CheckBoxStyle" parent="Widget.Material3.CompoundButton.CheckBox">
+        <item name="buttonTint">@color/turquoise</item>
+    </style>
+
+</resources>
